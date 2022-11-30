@@ -1,7 +1,7 @@
 
   body {
     background-color: #ffd90f;
-    background-image: url("/images/bart-slurp.png"); 
+    background-image: url("images/bart-slurp.png"); 
     background-size: 300px;
     background-position: 50%;
   }
